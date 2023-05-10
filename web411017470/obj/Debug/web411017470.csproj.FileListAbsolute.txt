@@ -84,6 +84,7 @@ D:\web411017470\web411017470\bin\roslyn\vbc.exe.config
 D:\web411017470\web411017470\bin\roslyn\vbc.rsp
 D:\web411017470\web411017470\bin\roslyn\VBCSCompiler.exe
 D:\web411017470\web411017470\bin\roslyn\VBCSCompiler.exe.config
+<<<<<<< HEAD
 D:\web411017470-master\web411017470\bin\web411017470.dll.config
 D:\web411017470-master\web411017470\bin\web411017470.dll
 D:\web411017470-master\web411017470\bin\web411017470.pdb
@@ -170,3 +171,5 @@ D:\web411017470-master\web411017470\obj\Debug\web411017470.csproj.CoreCompileInp
 D:\web411017470-master\web411017470\obj\Debug\web411017470.csproj.CopyComplete
 D:\web411017470-master\web411017470\obj\Debug\web411017470.dll
 D:\web411017470-master\web411017470\obj\Debug\web411017470.pdb
+=======
+>>>>>>> dc7f0563ec1f9b268cde850a4e1f01469e41c8a6

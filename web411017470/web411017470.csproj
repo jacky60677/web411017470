@@ -165,8 +165,11 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Test\Index.cshtml" />
     <Content Include="Views\Test\HW1.cshtml" />
+<<<<<<< HEAD
     <Content Include="Views\Test\HW2.cshtml" />
     <Content Include="Views\Test\HW3.cshtml" />
+=======
+>>>>>>> dc7f0563ec1f9b268cde850a4e1f01469e41c8a6
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

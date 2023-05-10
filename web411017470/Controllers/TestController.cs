@@ -17,6 +17,7 @@ namespace web411017470.Controllers
         {
             return View();
         }
+<<<<<<< HEAD
         public ActionResult HW2()
         {
             return View();
@@ -25,5 +26,7 @@ namespace web411017470.Controllers
         {
             return View();
         }
+=======
+>>>>>>> dc7f0563ec1f9b268cde850a4e1f01469e41c8a6
     }
 }
